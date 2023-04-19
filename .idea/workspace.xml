@@ -2,141 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f4b888c-b3c8-4e30-a0e7-56bce8687ce7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/unicornWhips/store/salesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/dataStructureTest/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/dataStructureTest/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/hugeIntegerTest/HugeIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/tdd/DiaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/tdd/EntryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkOut6/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkOut6/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkOut6/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkOut6/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkOut6/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnProgramming/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/ArrayClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/CountingIntegersInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/DrivingAgeDeterminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/EqualArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/Fig4_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/GuessALetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/PrintRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/PrintingTwoDimentionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/ShuffleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/SolveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/TrippledEqualsDoubled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/ZeroOrOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brainstormFile/printMissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/BasePlusCommissionCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/CommissionCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/CompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/CompensationModelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/HourlyCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/compensationModel/SalariedCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableImplementation/CompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableImplementation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableImplementation/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableImplementation/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableImplementation/PayableInterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableImplementation/SalariedCompensationModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/PayrollTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payableModification/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/payrollModification" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/workingWithInterface/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/workingWithInterface/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/workingWithInterface/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/workingWithInterface/PayableObjectsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/workingWithInterface/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/RegexPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/StringBuilderMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/CreditLimitCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/GasMileage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/RightAngleTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/SalesCommissionCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/IntegerDivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/ex5_11_Extremes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/ex5_17_students_grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/DeterminMaxOf3Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/HypotenuseCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Multiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/ParkingCharges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/RoundingNumbers6_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/RoundingNumbers6_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/SquareOfAsteriks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/calculatingTheSumOfDigits/CalculateSumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/ex6_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/InitArgs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/InitArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/InitArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/RollDice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/StudentPoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/VarargsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/gradeBook/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/gradeBook/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/multiGradeBook/MultiGradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/multiGradeBook/MultiGradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/composition/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/composition/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/composition/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/constructorOverloading/Time2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/countingObjectCreation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/countingObjectCreation/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/hugeInteger/HugeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/hugeInteger/HugeIntegerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/time1/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/time1/Time1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/time1/usingKeyReference/ThisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/workingWithEnum/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/workingWithEnum/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/BasePLusCommissionEmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/CommissionEmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructure/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diary/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diary/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hotelManagementSystem/UnicornHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hotelManagementSystem/UnicornHotelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/AgeDeterminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/ArrayPopulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/ArrayTutorialFunmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/ConvertToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/EvenAndOddNumberDeterminant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/GuessAWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/GuessFrom1to10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/MultiArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myPractice/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overridingMethods/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overridingMethods/Derived.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overridingMethods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sales/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fig4_12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SolveArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/F6_6RollingDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/F6_6RollingDice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/F6_7RollDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/F6_7RollDie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/F6_8CrapsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/F6_8CrapsGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sevenSegment/dataStructure/ArrayList.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sevenSegment/dataStructure/List.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sevenSegment/dataStructure/Stack.java" beforeDir="false" />
@@ -196,13 +62,26 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShuffleArray">
+  <component name="RunManager" selected="Application.CharArray">
     <configuration name="CalculateSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.calculatingTheSumOfDigits.CalculateSumOfDigits" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter6.calculatingTheSumOfDigits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter14.CharArray" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingTwoDimentionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="brainstormFile.PrintingTwoDimentionalArray" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="brainstormFile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="brainstormFile.ShuffleArray" />
       <module name="practice" />
@@ -264,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharArray" />
         <item itemvalue="Application.ShuffleArray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.F6_7RollDie" />
         <item itemvalue="Application.CalculateSumOfDigits" />
-        <item itemvalue="Application.PrintingTwoDimentionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +160,10 @@
       <workItem from="1669167307157" duration="16975000" />
       <workItem from="1670375181671" duration="278000" />
       <workItem from="1671123166804" duration="2128000" />
-      <workItem from="1679593897020" duration="8474000" />
+      <workItem from="1679593897020" duration="9291000" />
+      <workItem from="1680344422821" duration="95000" />
+      <workItem from="1680526864271" duration="2212000" />
+      <workItem from="1681853655419" duration="818000" />
     </task>
     <servers />
   </component>
